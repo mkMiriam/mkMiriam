@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da mkMiriam 😁
+## Bem-vindo(a) olá Eu sou a Miriam Fernandes 😁
 
  <div>
    <a href="https://github.com/mkMiriam">
